@@ -141,9 +141,9 @@ params:
             mapping: pathname
             lightTheme: preferred_color_scheme
             darkTheme: preferred_color_scheme
-            inputPosition: bottom
+            inputPosition: top
             lang: zh-CN
-            loading: 1
+            loading: lazy
             reactionsEnabled: 1
             emitMetadata: 0
 
