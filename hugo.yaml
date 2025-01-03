@@ -134,13 +134,16 @@ params:
             siteName: "" # You must insert a unique identifier here matching the one you registered (See https://cactus.chat/docs/getting-started/quick-start/#register-your-site)
 
         giscus:
-            repo: "Ame-ReIori/blog-comment"
-            repoID: "R_kgDONlPYWA"
-            category: "Announcements"
-            categoryID: "DIC_kwDONlPYWM4ClsCc"
-            mapping: "pathname"
-            lightTheme: "preferred_color_scheme"
-            darkTheme: "preferred_color_scheme"
+            repo: Ame-ReIori/blog-comment
+            repoID: R_kgDONlPYWA
+            category: Announcements
+            categoryID: DIC_kwDONlPYWM4ClsCc
+            mapping: pathname
+            lightTheme: preferred_color_scheme
+            darkTheme: preferred_color_scheme
+            inputPosition: bottom
+            lang: zh-CN
+            loading: 1
             reactionsEnabled: 1
             emitMetadata: 0
 
