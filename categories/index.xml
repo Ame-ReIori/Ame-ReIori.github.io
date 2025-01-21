@@ -6,45 +6,21 @@
         <description>Recent content in Categories on AmeReIori&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ame-reiori.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 05 Jan 2025 16:47:41 +0800</lastBuildDate><atom:link href="https://ame-reiori.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>论文阅读</title>
+        <link>https://ame-reiori.github.io/categories/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB/</link>
+        <pubDate>Sun, 05 Jan 2025 16:47:41 +0800</pubDate>
+        
+        <guid>https://ame-reiori.github.io/categories/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Test</title>
         <link>https://ame-reiori.github.io/categories/test/</link>
-        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://ame-reiori.github.io/categories/test/</guid>
         <description>&lt;img src="https://ame-reiori.github.io/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
-        </item>
-        <item>
-        <title>测试</title>
-        <link>https://ame-reiori.github.io/categories/%E6%B5%8B%E8%AF%95/</link>
-        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-        
-        <guid>https://ame-reiori.github.io/categories/%E6%B5%8B%E8%AF%95/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Syntax</title>
-        <link>https://ame-reiori.github.io/categories/syntax/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://ame-reiori.github.io/categories/syntax/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Themes</title>
-        <link>https://ame-reiori.github.io/categories/themes/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://ame-reiori.github.io/categories/themes/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Test With Whitespaces</title>
-        <link>https://ame-reiori.github.io/categories/test-with-whitespaces/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://ame-reiori.github.io/categories/test-with-whitespaces/</guid>
-        <description></description>
         </item>
         
     </channel>
